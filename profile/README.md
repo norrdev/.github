@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="img/logo-full.png" alt="NorrDev Logo" width="200" />
+  <img src="img/logo-full.png" alt="NorrDev Logo" />
 
   # NorrDev
 
